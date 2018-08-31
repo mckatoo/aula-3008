@@ -1,0 +1,11 @@
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/bin/Debug/netcoreapp2.1/calcINSS.deps.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/bin/Debug/netcoreapp2.1/calcINSS.runtimeconfig.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/bin/Debug/netcoreapp2.1/calcINSS.runtimeconfig.dev.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/bin/Debug/netcoreapp2.1/calcINSS.dll
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/bin/Debug/netcoreapp2.1/calcINSS.pdb
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.csprojAssemblyReference.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.csproj.CoreCompileInputs.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.AssemblyInfoInputs.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.AssemblyInfo.cs
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.dll
+/home/mckatoo/Projetos/csharp/aula-3008/calcINSS/obj/Debug/netcoreapp2.1/calcINSS.pdb

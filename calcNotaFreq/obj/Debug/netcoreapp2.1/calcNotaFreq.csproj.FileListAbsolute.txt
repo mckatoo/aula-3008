@@ -1,0 +1,11 @@
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/bin/Debug/netcoreapp2.1/calcNotaFreq.deps.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/bin/Debug/netcoreapp2.1/calcNotaFreq.runtimeconfig.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/bin/Debug/netcoreapp2.1/calcNotaFreq.runtimeconfig.dev.json
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/bin/Debug/netcoreapp2.1/calcNotaFreq.dll
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/bin/Debug/netcoreapp2.1/calcNotaFreq.pdb
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.csprojAssemblyReference.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.csproj.CoreCompileInputs.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.AssemblyInfoInputs.cache
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.AssemblyInfo.cs
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.dll
+/home/mckatoo/Projetos/csharp/aula-3008/calcNotaFreq/obj/Debug/netcoreapp2.1/calcNotaFreq.pdb
